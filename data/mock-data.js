@@ -1,0 +1,103 @@
+export const rec_channels = [
+  {
+    "id":1,
+    "avatar":"https://robohash.org/reprehenderitnonodio.png?size=50x50&set=set1",
+    "username":"sohickee0",
+    "game_name":"Cardguard",
+    "rank":41
+  },
+{
+  "id":2,
+  "avatar":"https://robohash.org/idvoluptatemunde.png?size=50x50&set=set1",
+  "username":"mkelinge1",
+  "game_name":"Alpha",
+  "rank":55
+},
+{
+  "id":3,
+  "avatar":"https://robohash.org/etevenietdignissimos.png?size=50x50&set=set1",
+  "username":"nblei2",
+  "game_name":"Flowdesk",
+  "rank":31
+},
+{
+  "id":4,
+  "avatar":"https://robohash.org/accusamusvelitomnis.png?size=50x50&set=set1",
+  "username":"astainton3",
+  "game_name":"Tin",
+  "rank":61
+},
+{
+  "id":5,
+  "avatar":"https://robohash.org/omnispariaturvoluptate.png?size=50x50&set=set1",
+  "username":"mnapoleone4",
+  "game_name":"Stim",
+  "rank":21
+},
+{
+  "id":6,
+  "avatar":"https://robohash.org/voluptatedoloresaperiam.png?size=50x50&set=set1",
+  "username":"sdumphy5",
+  "game_name":"Pannier"
+  ,"rank":24
+},
+{
+  "id":7,
+  "avatar":"https://robohash.org/delectusquostempora.png?size=50x50&set=set1",
+  "username":"rjudron6",
+  "game_name":"Gembucket",
+  "rank":68
+},
+{
+  "id":8,
+  "avatar":"https://robohash.org/quiutlabore.png?size=50x50&set=set1",
+  "username":"lfurniss7",
+  "game_name":"Gembucket",
+  "rank":81
+},
+{
+  "id":9,
+  "avatar":"https://robohash.org/porrononeligendi.png?size=50x50&set=set1",
+  "username":"eogers8",
+  "game_name":"Andalax",
+  "rank":62
+},
+{
+  "id":10,
+  "avatar":"https://robohash.org/idveniamanimi.png?size=50x50&set=set1",
+  "username":"cchubb9",
+  "game_name":"Zoolab",
+  "rank":80
+  }
+]
+
+export const top_channels = [
+  {
+    "id":1,
+    "avatar":"https://robohash.org/reprehenderitnonodio.png?size=50x50&set=set1",
+    "username":"sohickee0",
+    "game_name":"Cardguard",
+    "rank":41
+  },
+{
+  "id":2,
+  "avatar":"https://robohash.org/idvoluptatemunde.png?size=50x50&set=set1",
+  "username":"mkelinge1",
+  "game_name":"Alpha",
+  "rank":55
+},
+{
+  "id":3,
+  "avatar":"https://robohash.org/etevenietdignissimos.png?size=50x50&set=set1",
+  "username":"nblei2",
+  "game_name":"Flowdesk",
+  "rank":31
+},
+{
+  "id":4,
+  "avatar":"https://robohash.org/accusamusvelitomnis.png?size=50x50&set=set1",
+  "username":"astainton3",
+  "game_name":"Tin",
+  "rank":61
+}
+]
