@@ -16,27 +16,27 @@ const IconBar = () => {
       
       <div className='w-full h-[50px] bg-[#751dfa] hover:bg-[#9f63fa] flex justify-between items-center px-4 rounded'>
       <p className='text-2xl font-bold'>Games</p>
-      <Image src={Remote} />
+      <Image src={Remote} alt='/' />
       </div>
       {/* Grid Item */}
       <div className='w-full h-[50px]  bg-[#751dfa] hover:bg-[#9f63fa] flex justify-between items-center px-4 rounded'>
       <p className='text-2xl font-bold'>IRL</p>
-      <Image src={Mic} />
+      <Image src={Mic} alt='/' />
       </div>
       {/* Grid Item */}
       <div className='w-full h-[50px]  bg-[#751dfa] hover:bg-[#9f63fa] flex justify-between items-center px-4 rounded'>
       <p className='text-2xl font-bold'>Music</p>
-      <Image src={Headphones} />
+      <Image src={Headphones} alt='/' />
       </div>
       {/* Grid Item */}
       <div className='w-full h-[50px]  bg-[#751dfa] hover:bg-[#9f63fa] flex justify-between items-center px-4 rounded'>
       <p className='text-2xl font-bold'>Esports</p>
-      <Image src={Trophy} />
+      <Image src={Trophy} alt='/' />
       </div>
       {/* Grid Item */}
       <div className='w-full h-[50px]  bg-[#751dfa] hover:bg-[#9f63fa] flex justify-between items-center px-4 rounded'>
       <p className='text-2xl font-bold'>Creative</p>
-      <Image src={Paint} />
+      <Image src={Paint} alt='/' />
       </div>
       </div>
     </div>
